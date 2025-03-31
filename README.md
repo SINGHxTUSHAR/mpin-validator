@@ -26,7 +26,10 @@ The core task is to develop a program that evaluates the strength of an MPIN (in
 * Assess MPIN strength ("WEAK" or "STRONG") considering user demographics (DOB, spouse's DOB, anniversary).   
 * If the MPIN is "WEAK", provide specific reasons (e.g., COMMONLY_USED, DEMOGRAPHIC_DOB_SELF).   
 * Extend the functionality to support 6-digit MPINs.   
-* Include comprehensive testing with at least 20 test cases.   
+* Include comprehensive testing with at least 20 test cases.
+
+## `How to Run the code:`
+Run this command in your VSCode cmd terminal : ``` python mpinValidator.py```
 
 
 ## Project Directory Structure:
