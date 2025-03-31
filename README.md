@@ -28,6 +28,9 @@ The core task is to develop a program that evaluates the strength of an MPIN (in
 * Extend the functionality to support 6-digit MPINs.   
 * Include comprehensive testing with at least 20 test cases.   
 
+## `How to Run the code:`
+Run this command in your VSCode cmd terminal : ``` python mpinValidator.py```
+
 
 ## Project Directory Structure:
 ```
