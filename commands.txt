@@ -1,0 +1,5 @@
+Hello my name is TUSHAR SINGH, this is the OneBanc-DataScience-Assignment.
+
+To run the app, open vscode cmd & run the command: ```python mpinValidator.py```
+
+Enter the required details and you got your MPIN-strength-check
