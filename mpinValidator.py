@@ -1,4 +1,4 @@
-# run_interactive_checker.py to check the MPIN:
+# mpinValidator.py to check the MPIN: Run this file for taking the user input & checking for strength of MPIN
 
 import sys
 import os
