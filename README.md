@@ -31,9 +31,6 @@ The core task is to develop a program that evaluates the strength of an MPIN (in
 ## `How to Run the code:`
 Run this command in your VSCode cmd terminal : ``` python mpinValidator.py```
 
-## `How to Run the code:`
-Run this command in your VSCode cmd terminal : ``` python mpinValidator.py```
-
 
 ## Project Directory Structure:
 ```
